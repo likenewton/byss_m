@@ -1,0 +1,104 @@
+@import '../../base/style/border.scss';
+
+.header-inner {
+  width: 100%;
+  height: 100%;
+  background: url('../../static/img/header_bg.png') no-repeat;
+  background-size: 100% 100%;
+  z-index: 199;
+
+  .logo {
+    position: absolute;
+    height: 1.0rem;
+    left: 0.3rem;
+    top: 0.12rem;
+
+  }
+
+  h1 {
+    position: absolute;
+    width: 100%;
+    left: 1.46rem;
+    top: 0.27rem;
+
+    p {
+      color: #fff;
+      font-size: 0.4rem;
+      height: 0.5rem;
+      line-height: 0.5rem;
+      font-weight: bold;
+    }
+
+    span {
+      position: absolute;
+      font-size: 0.2rem;
+      top: 0.50rem;
+      left: 0;
+    }
+  }
+
+  .js-Download {
+    position: absolute;
+    top: 0.27rem;
+    right: 1.04rem;
+    width: 2.56rem;
+    height: 0.9rem;
+    background: url('../../static/img/download.png') no-repeat;
+    background-size: 100% 100%;
+  }
+
+  .menu {
+    padding: 0.2rem;
+    box-sizing: content-box;
+    position: absolute;
+    top: 0.22rem;
+    right: -0.04rem;
+    width: 0.78rem;
+    height: 0.45rem;
+    background: url('../../static/img/menue-small-2.png') no-repeat;
+    background-origin: content-box;
+    background-size: 100% 100%;
+
+    &.show-menu {
+      right: 0.14rem;
+      width: 0.423rem;
+      height: 0.45rem;
+      background: url('../../static/img/menu-close.png') no-repeat;
+      background-origin: content-box;
+      background-size: 100% 100%;
+    }
+
+  }
+
+  .nav-list {
+    display: none;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    left: 0;
+    top: 1.24rem;
+    width: 100%;
+    padding: 0 0.3rem;
+
+    li {
+      height: 1.2rem;
+      line-height: 1.2rem;
+
+      >div {}
+
+      p {
+        display: inline-block;
+        font-size: 0.32rem
+      }
+
+      span {
+        font-family: 'Arial';
+        font-size: 0.28rem;
+      }
+    }
+  }
+
+  * {
+    color: #fff;
+    font-family: tahoma, "Microsoft YaHei", sans-serif
+  }
+}
