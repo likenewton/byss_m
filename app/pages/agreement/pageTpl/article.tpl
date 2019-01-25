@@ -74,13 +74,10 @@
   <span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">10</span><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">、除用户自行填写的注册资料及用户充值的游戏币外，其它由{{companyName}}视相关功能或统计或增强游戏娱乐性之需要而生成的游戏数据，其所有权由{{companyName}}享有。</span>
 </p>
 <p style="margin-top:21px;line-height:27px">
-  <span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">11</span><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">、用户在{{companyName}}充值后若需发票，可向充值后30日内向客服中心申请或在购买点索要。</span>
+  <span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">11</span><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">、如果用户选择进入游戏房间，视为用户已知该等游戏的具体规则，并同意在该游戏房间中使用虚拟游戏币的相关规则。</span>
 </p>
 <p style="margin-top:21px;line-height:27px">
-  <span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">12</span><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">、如果用户选择进入游戏房间，视为用户已知该等游戏的具体规则，并同意在该游戏房间中使用虚拟游戏币的相关规则。</span>
-</p>
-<p style="margin-top:21px;line-height:27px">
-  <span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">13</span><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">、用户之间因线上游戏行为所发生或可能发生的任何心理、生理上的伤害和经济上的损失，{{companyName}}不承担任何责任。</span>
+  <span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">12</span><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">、用户之间因线上游戏行为所发生或可能发生的任何心理、生理上的伤害和经济上的损失，{{companyName}}不承担任何责任。</span>
 </p>
 <p style="margin-top:21px;line-height:27px">
   <span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#212121">四、用户隐私制度</span>
